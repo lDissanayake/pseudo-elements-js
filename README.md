@@ -1,7 +1,7 @@
 # pseudo-elements-js
 Way to modify CSS of pseudo-elements with animeJS
 
-##Anime JS animate pseudo-elements
+## Anime JS animate pseudo-elements
 ```
 var st = document.createElement('style');
 document.querySelector('head').append(st);
