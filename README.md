@@ -1,5 +1,5 @@
 # pseudo-elements-js
-Way to modify CSS of pseudo-elements via animeJS
+Way to modify CSS of pseudo-elements with animeJS
 
 ##Anime JS animate pseudo-elements
 ```
